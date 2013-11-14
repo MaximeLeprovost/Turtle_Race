@@ -9,6 +9,10 @@ Project finished and closed
 Ordered on 22/12/2012.
 Delivered on 11/01/2013.
 
+
+Sublime Text 2
+Eclipse Kepler
+
 --
 
 All right reserved
